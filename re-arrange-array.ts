@@ -20,12 +20,7 @@ const groupArrayElements = function (arr: number[], n: number) {
 };
 
 function main() {
-  console.log("main started");
-  
   let result = groupArrayElements([1, 2, 3, 4, 5], 2);
-  console.log("result: ");
-  console.log(result);
-
   return;
 }
 
